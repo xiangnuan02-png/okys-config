@@ -1,0 +1,24 @@
+{
+  "提示": "OK影视/TVBox 首版测试配置。站点域名和 CMS API 路径来自上传 APK 内置的玩偶聚合页面线索；接口格式为兼容性尝试，尚未在线验证。若导入后无结果，可能是站点没有开放标准 CMS API，或域名已失效。",
+  "sites": [
+    {
+      "key": "wogg",
+      "name": "玩偶4K（测试）",
+      "type": 1,
+      "api": "https://www.wogg.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "muou",
+      "name": "木偶（测试）",
+      "type": 1,
+      "api": "https://www.muou.site/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zhizhen",
+      "name": "至臻（测试）",
